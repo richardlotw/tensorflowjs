@@ -1,4 +1,3 @@
-# Cruise :rocket:
 
 Automatic deployment of tensorflow models as rest apis to Vercel using tensorflow serving.
 

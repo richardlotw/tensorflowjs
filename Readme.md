@@ -1,6 +1,6 @@
 # Cruise :rocket:
 
-Automatic deployment of tensorflow models as rest apis to heroku using tensorflow serving.
+Automatic deployment of tensorflow models as rest apis to Vercel using tensorflow serving.
 
 # Try it out.
 

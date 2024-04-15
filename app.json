@@ -1,17 +1,17 @@
 {
-  "name": "Cruise",
+  "name": "RichardLo",
   "description": "deploy your tensorflow models without Software engineering skills",
-  "repository": "https://github.com/JesuFemi-O/Cruise",
+  "repository": "https://richardlotw/tensorflowjs",
   "stack": "container",
   "env": {
     "TENSORFLOW_MODEL_URL": {
-      "description": "URL to your tensorflow SavedModel (in .tar.gz format)"
+      "description": ""
     },
     "MODEL_BASE_PATH": {
-      "description": "the name of your base folder (name before .tar.gz in your url)"
+      "description": "./"
     },
     "MODEL_CONFIG_FILE": {
-      "description": "the name of your model config file"
+      "description": "model"
     }
   }
 }

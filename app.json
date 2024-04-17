@@ -8,7 +8,7 @@
       "description": ""
     },
     "MODEL_BASE_PATH": {
-      "description": "./"
+      "description": "/"
     },
     "MODEL_CONFIG_FILE": {
       "description": "model"
